@@ -1,0 +1,14 @@
+{
+  "name": "popcorn-tracker",
+  "version": "1.0.0",
+  "description": "Popcorn tracker lets you track who is left to be popcorned and lets you pick a random person to popcorn",
+  "main": "index.js",
+  "scripts": {
+    "test": "node scripts.js"
+  },
+  "author": "Maria Ten Sierra",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
